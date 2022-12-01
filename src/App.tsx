@@ -1,12 +1,10 @@
-import React from 'react';
 import './App.css';
+import AboutUs from './pages/AboutUs';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      CAPTURE
-      </header>
+        <AboutUs/>
     </div>
   );
 }
